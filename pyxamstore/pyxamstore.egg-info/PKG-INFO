@@ -1,0 +1,24 @@
+Metadata-Version: 2.4
+Name: pyxamstore
+Version: 1.0.0
+Summary: Xamarin AssemblyStore Explorer (pyxamstore)
+Download-URL: https://github.com/jakev/pyxamstore
+Author: Jake Valletta
+Author-email: javallet@gmail.com
+Keywords: android device security mobile reverse-engineering Xamarin AssemblyStore
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Information Technology
+Classifier: Topic :: Security
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Requires-Dist: future==0.18.3
+Requires-Dist: lz4==4.3.1
+Requires-Dist: xxhash==3.2.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: download-url
+Dynamic: keywords
+Dynamic: requires-dist
+Dynamic: summary
